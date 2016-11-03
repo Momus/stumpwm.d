@@ -7,7 +7,7 @@
 ;;First task is try to set the "Windows Key" as the prefix key.
 ;; The winkey must first be set to F20 or some such in
 
-(set-prefix-key (kbd "C-F12")) 
+(set-prefix-key (kbd "F12")) 
 
 ;; Set the mouse policy to focus follows mouse;
 (setf *mouse-focus-policy* :sloppy) ;; :click, :ignore, :sloppy
