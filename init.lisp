@@ -11,3 +11,4 @@
 
 ;; Set the mouse policy to focus follows mouse;
 (setf *mouse-focus-policy* :sloppy) ;; :click, :ignore, :sloppy
+
